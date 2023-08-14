@@ -22,18 +22,24 @@ I am a Frontend Developer based in Yogyakarta, Indonesia.
 
 ### Jcode
 [Live Demo](https://jcode-2110.netlify.app/) | [GitHub](https://github.com/jihadable/jcode)
+<img w="200" src="./assets/jcode.png" alt="Jcode">
 
 ### LearNexus
 [Live Demo](https://learnexus.netlify.app/) | [GitHub](https://github.com/jihadable/learnexus)
+<img w="200" src="./assets/learnexus.png" alt="LearNexus">
 
 ### Luminous
 [Live Demo](https://luminous-2110.netlify.app/) | [GitHub](https://github.com/jihadable/luminous)
+<img w="200" src="./assets/luminous.png" alt="Luminous">
 
 ### RoamRoads
 [Live Demo](https://roamroads.netlify.app/) | [GitHub](https://github.com/jihadable/roamroads)
+<img w="200" src="./assets/roam-roads.png" alt="RoamRoads">
 
 ### Golden Fist
 [Live Demo](https://goldenfist.netlify.app/) | [GitHub](https://github.com/jihadable/goldenfist)
+<img w="200" src="./assets/golden-fist.png" alt="Golden Fist">
 
 ### Zenfresh
 [Live Demo](https://zenfresh.netlify.app/) | [GitHub](https://github.com/jihadable/zenfresh)
+<img w="200" src="./assets/zenfresh.png" alt="Zenfresh">
