@@ -8,13 +8,13 @@ I am a Frontend Developer based in Yogyakarta, Indonesia.
 
 ## Portfolio
 
-<a href="https://umarjihad.netlify.app/">
+<a href="https://umarjihad.netlify.app/" target="_blank">
   <img src="https://shields.io/badge/PORTFOLIO-149383?logo=github"/>
 </a>
 
 ## Linkedin
 
-<a href="https://www.linkedin.com/in/umar-jihad-ab83a6259/">
+<a href="https://www.linkedin.com/in/umar-jihad-ab83a6259/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin"/>
 </a>
 
