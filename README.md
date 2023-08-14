@@ -23,29 +23,29 @@ I am a Frontend Developer based in Yogyakarta, Indonesia.
 ### Jcode
 [Live Demo](https://jcode-2110.netlify.app/) | [GitHub](https://github.com/jihadable/jcode)
 
-<img src="./assets/jcode.png" alt="Jcode">
+<img src="https://umarjihad.netlify.app/pic/jcode.png" alt="Jcode">
 
 ### LearNexus
 [Live Demo](https://learnexus.netlify.app/) | [GitHub](https://github.com/jihadable/learnexus)
 
-<img src="./assets/learnexus.png" alt="LearNexus">
+<img src="https://umarjihad.netlify.app/pic/learnexus.png" alt="LearNexus">
 
 ### Luminous
 [Live Demo](https://luminous-2110.netlify.app/) | [GitHub](https://github.com/jihadable/luminous)
 
-<img src="./assets/luminous.png" alt="Luminous">
+<img src="https://umarjihad.netlify.app/pic/luminous.png" alt="Luminous">
 
 ### RoamRoads
 [Live Demo](https://roamroads.netlify.app/) | [GitHub](https://github.com/jihadable/roamroads)
 
-<img src="./assets/roam-roads.png" alt="RoamRoads">
+<img src="https://umarjihad.netlify.app/pic/roam-roads.png" alt="RoamRoads">
 
 ### Golden Fist
 [Live Demo](https://goldenfist.netlify.app/) | [GitHub](https://github.com/jihadable/goldenfist)
 
-<img src="./assets/golden-fist.png" alt="Golden Fist">
+<img src="https://umarjihad.netlify.app/pic/golden-fist.png" alt="Golden Fist">
 
 ### Zenfresh
 [Live Demo](https://zenfresh.netlify.app/) | [GitHub](https://github.com/jihadable/zenfresh)
 
-<img src="./assets/zenfresh.png" alt="Zenfresh">
+<img src="https://umarjihad.netlify.app/pic/zenfresh.png" alt="Zenfresh">
