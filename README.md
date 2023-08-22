@@ -4,7 +4,7 @@ I am a Frontend Developer based in Yogyakarta, Indonesia.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,react,vite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,typescript,react,vite,git)](https://skillicons.dev)
 
 ## Portfolio
 
@@ -49,3 +49,8 @@ I am a Frontend Developer based in Yogyakarta, Indonesia.
 [Live Demo](https://zenfresh.netlify.app/) | [GitHub](https://github.com/jihadable/zenfresh)
 
 <img src="https://umarjihad.netlify.app/pic/zenfresh.png" alt="Zenfresh">
+
+### StockWise
+[Live Demo](https://stockwise-2110.netlify.app/) | [GitHub](https://github.com/jihadable/stockwise)
+
+<img src="https://umarjihad.netlify.app/pic/stockwise.png" alt="StockWise">
