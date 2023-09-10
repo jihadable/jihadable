@@ -25,11 +25,6 @@ I am a Frontend Developer based in Yogyakarta, Indonesia.
 
 <img src="https://umarjihad.netlify.app/pic/jcode.png" alt="Jcode">
 
-### LearNexus
-[Live Demo](https://learnexus.netlify.app/) | [GitHub](https://github.com/jihadable/learnexus)
-
-<img src="https://umarjihad.netlify.app/pic/learnexus.png" alt="LearNexus">
-
 ### Luminous
 [Live Demo](https://luminous-2110.netlify.app/) | [GitHub](https://github.com/jihadable/luminous)
 
