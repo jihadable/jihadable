@@ -33,12 +33,12 @@ I am a Full Stack Developer based in Yogyakarta, Indonesia.
 ### RoamRoads
 [Live Demo](https://roamroads.netlify.app/) | [GitHub](https://github.com/jihadable/roamroads)
 
-<img src="https://umarjihad.netlify.app/pic/roam-roads.png" alt="RoamRoads">
+<img src="https://umarjihad.netlify.app/pic/roamroads.png" alt="RoamRoads">
 
 ### Golden Fist
 [Live Demo](https://goldenfist.netlify.app/) | [GitHub](https://github.com/jihadable/goldenfist)
 
-<img src="https://umarjihad.netlify.app/pic/golden-fist.png" alt="Golden Fist">
+<img src="https://umarjihad.netlify.app/pic/goldenfist.png" alt="Golden Fist">
 
 ### Zenfresh
 [Live Demo](https://zenfresh.netlify.app/) | [GitHub](https://github.com/jihadable/zenfresh)
