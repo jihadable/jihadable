@@ -1,10 +1,12 @@
-# Hi there 👋, my name is Umar.
+# Umar Jihad.
 
-I am a Full Stack Developer based in Yogyakarta, Indonesia.
+Full Stack Developer 
+<br>
+Yogyakarta, Indonesia.
 
-## Skills
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,typescript,react,nodejs,expressjs,mongodb,php,laravel,mysql,postgresql)](https://skillicons.dev)
+[![My Skils](https://skillicons.dev/icons?i=html,css,scss,tailwind,javascript,typescript,react,nodejs,expressjs,mongodb,php,laravel,mysql,postgresql)](https://skillicons.dev)
 
 ## Portfolio
 
