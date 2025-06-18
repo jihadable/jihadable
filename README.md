@@ -1,6 +1,6 @@
 # Umar Jihad.
 
-Full Stack Developer 
+Software Engineer 
 <br>
 Yogyakarta, Indonesia.
 
@@ -22,30 +22,10 @@ Yogyakarta, Indonesia.
 
 ## Projects
 
-### Jcode
-[Live Demo](https://jcode-2110.netlify.app/) | [GitHub](https://github.com/jihadable/jcode)
-
-<img src="https://umarjihad.netlify.app/pic/jcode.png" alt="Jcode">
-
 ### Luminous
 [Live Demo](https://luminous-2110.netlify.app/) | [GitHub](https://github.com/jihadable/luminous)
 
 <img src="https://umarjihad.netlify.app/pic/luminous.png" alt="Luminous">
-
-### RoamRoads
-[Live Demo](https://roamroads.netlify.app/) | [GitHub](https://github.com/jihadable/roamroads)
-
-<img src="https://umarjihad.netlify.app/pic/roamroads.png" alt="RoamRoads">
-
-### Golden Fist
-[Live Demo](https://goldenfist.netlify.app/) | [GitHub](https://github.com/jihadable/goldenfist)
-
-<img src="https://umarjihad.netlify.app/pic/goldenfist.png" alt="Golden Fist">
-
-### Zenfresh
-[Live Demo](https://zenfresh.netlify.app/) | [GitHub](https://github.com/jihadable/zenfresh)
-
-<img src="https://umarjihad.netlify.app/pic/zenfresh.png" alt="Zenfresh">
 
 ### Stockwise
 [Live Demo](https://stockwise-2110.netlify.app/) | [GitHub](https://github.com/jihadable/stockwise)
