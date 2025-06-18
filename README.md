@@ -6,7 +6,7 @@ Yogyakarta, Indonesia.
 
 ## Tech Stack
 
-[![My Skils](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,expressjs,mongodb,go,mysql,postgresql)](https://skillicons.dev)
+[![My Skils](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,expressjs,mongodb,prisma,go,mysql,postgresql)](https://skillicons.dev)
 
 ## Portfolio
 
