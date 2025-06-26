@@ -6,7 +6,7 @@ Yogyakarta, Indonesia.
 
 ## Tech Stack
 
-[![My Skils](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,expressjs,mongodb,prisma,go,mysql,postgresql)](https://skillicons.dev)
+[![My Skils](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,expressjs,mongodb,prisma,go,mysql,postgresql,graphql)](https://skillicons.dev)
 
 ## Portfolio
 
@@ -27,7 +27,12 @@ Yogyakarta, Indonesia.
 
 <img src="https://umarjihad.netlify.app/pic/luminous.png" alt="Luminous">
 
-### Stockwise
+### StockWise
 [Live Demo](https://stockwise-2110.netlify.app/) | [GitHub](https://github.com/jihadable/stockwise)
 
-<img src="https://umarjihad.netlify.app/pic/stockwise.png" alt="Zenfresh">
+<img src="https://umarjihad.netlify.app/pic/stockwise.png" alt="StockWise">
+
+### ZenFresh
+[Live Demo](https://zenfresh.netlify.app/) | [GitHub](https://github.com/jihadable/zenfresh)
+
+<img src="https://umarjihad.netlify.app/pic/zenfresh.png" alt="Zenfresh">
